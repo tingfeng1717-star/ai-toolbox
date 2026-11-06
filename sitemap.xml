@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://YOUR-DOMAIN.example/</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/privacy.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/guides/</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/word-counter.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/prompt-generator.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/email-writer.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/text-summarizer.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/text-rewriter.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/grammar-checker.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/translator.html</loc></url>
-<url><loc>https://YOUR-DOMAIN.example/tools/ai-writer.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/about.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/privacy.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/contact.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/guides/</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/word-counter.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/prompt-generator.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/email-writer.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/text-summarizer.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/text-rewriter.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/grammar-checker.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/translator.html</loc></url>
+  <url><loc>https://ai-toolbox.tingfeng1717.workers.dev/tools/ai-writer.html</loc></url>
 </urlset>
